@@ -2,9 +2,9 @@
 
 
 > A Front-end development engineer
-<img  align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatsczx&layout=compact" />
-- 📫 Email:  engineerczx@gmail.com
 
+- 📫 Email:  engineerczx@gmail.com
+<img  align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatsczx&layout=compact" />
 - 💻 Blog: https://yeatsczx.github.io/
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yeats&show_icons=true&hide_border=true">
