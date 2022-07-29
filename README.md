@@ -7,7 +7,7 @@
 
 - 📫 Email:  engineerczx@gmail.com
 
-- 💻 Blog: https://yeatsczx.github.io/
+- 💻 Blog: https://yeats.vercel.app/
 
 <img  align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeatsczx&layout=compact" />
 <!-- - 🔭 I’m currently working on ...
