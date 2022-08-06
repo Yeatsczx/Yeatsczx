@@ -5,7 +5,7 @@
 
 > A Front-end development engineer
 
-- 📫 Email:  engineerczx@gmail.com
+- 📫 Email:  engineerczx@foxmail.com
 
 - 💻 Blog: https://yeats.vercel.app/
 
